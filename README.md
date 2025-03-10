@@ -7,13 +7,13 @@ The more blood you collect, the higher your final score!
 Play as Sal, a stranded vampire who needs to send some blood back to the family to redeem himself
 Fight growing waves of townsmen to feed their unending hunger
 
-Concept Artist
+Director
 
-Gui Artist
+Concept Artist
 
 Enemy Design
 
-Move Design
+Weapon Design
 
 Final Artist
 
@@ -25,6 +25,3 @@ Enemy Programmer
 
 Engine  and GUI Programming
 
-Upgrade Designer
-
-Upgrade Programming
