@@ -8,9 +8,13 @@ Play as Sal, a stranded vampire who needs to send some blood back to the family 
 Fight growing waves of townsmen to feed their unending hunger
 
 ## Concept art
-Start screen
+### Start screen
 
-![Running App](https://github.com/fugu2000/sanguinize/blob/main/assets/Sang.jpg?raw=true)
+![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Sang.jpg?raw=true)
+
+### Game Over screen
+
+![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Gameover.jpg?raw=true)
 
 Director
 
