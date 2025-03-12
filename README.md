@@ -9,7 +9,8 @@ Fight growing waves of townsmen to feed their unending hunger
 
 ## Concept art
 Start screen
-![Running App]()
+
+![Running App](https://github.com/fugu2000/sanguinize/blob/main/assets/Sang.jpg?raw=true)
 
 Director
 
