@@ -30,7 +30,7 @@ Fight growing waves of townsmen to feed their unending hunger
 
 ### Enemies
 
-![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/enemies.jpg?raw=true)
+![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Enemies.png?raw=true)
 
 ### Diagram
 
