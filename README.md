@@ -55,7 +55,7 @@ Enemy Programmer
 Engine  and GUI Programming
 
 
-*** ------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 ### The other Projects ripository just in case: https://github.com/Yang775923/Cereal-Killers.git
 
 ### Cereal-Killers
