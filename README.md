@@ -57,10 +57,7 @@ Engine  and GUI Programming
 
 ### The other Projects ripository just in case: https://github.com/Yang775923/Cereal-Killers.git
 
-
-
-
-#### Cereal-Killers
+### Cereal-Killers
 Which Cereal Killer R U (personality) Test
 
 ** Description
@@ -78,7 +75,7 @@ There will be a total of 16 different questions. Each question has a different a
 *** Questions
 <img width="310" alt="Screenshot 2025-03-12 at 12 30 07 PM" src="https://github.com/user-attachments/assets/897ad7bb-1457-430b-b46d-4ece59706cac" />
 
-#### REsults ☠
+** REsults ☠
 <img width="358" alt="Screenshot 2025-03-17 at 11 34 52 AM" src="https://github.com/user-attachments/assets/65fb242d-ed9a-4e89-8ce0-a5db44dea969" />
 
 ## Class Diagram
