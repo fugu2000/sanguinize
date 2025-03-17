@@ -28,6 +28,10 @@ Fight growing waves of townsmen to feed their unending hunger
 
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/game.jpg?raw=true)
 
+### Enemies
+
+![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/enemies.jpg?raw=true)
+
 Director
 
 Concept Artist
