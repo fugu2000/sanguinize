@@ -24,8 +24,9 @@ Fight growing waves of townsmen to feed their unending hunger
 
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/scythe.jpg?raw=true)
 
+### Game
 
-![Art](?raw=true)
+![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/game.jpg?raw=true)
 
 Director
 
