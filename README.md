@@ -18,7 +18,7 @@ Fight growing waves of townsmen to feed their unending hunger
 
 ### Weapon concepts
 
-![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/weapons.jpg?raw=true)
+![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Weapons.png?raw=true)
 
 ### Sal
 
