@@ -72,6 +72,7 @@ There will be a total of 16 different questions. Each question has a different a
 #### Contributors 
 * Tiger Yang
 * Margot Zollinger
+* Jerry Yang
 
 ### App images 
 ### Screen Cover
