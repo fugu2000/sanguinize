@@ -20,8 +20,9 @@ Fight growing waves of townsmen to feed their unending hunger
 
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/weapons.jpg?raw=true)
 
+### Sal
 
-![Art](?raw=true)
+![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/scythe.jpg?raw=true)
 
 
 ![Art](?raw=true)
