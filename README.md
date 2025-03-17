@@ -16,6 +16,16 @@ Fight growing waves of townsmen to feed their unending hunger
 
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Gameover.jpg?raw=true)
 
+### Game Over screen
+
+![Art](?raw=true)
+
+
+![Art](?raw=true)
+
+
+![Art](?raw=true)
+
 Director
 
 Concept Artist
