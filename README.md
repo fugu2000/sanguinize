@@ -16,9 +16,9 @@ Fight growing waves of townsmen to feed their unending hunger
 
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Gameover.jpg?raw=true)
 
-### Game Over screen
+### Weapon concepts
 
-![Art](?raw=true)
+![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/weapons.jpg?raw=true)
 
 
 ![Art](?raw=true)
