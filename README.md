@@ -37,23 +37,25 @@ Fight growing waves of townsmen to feed their unending hunger
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Diagram.png?raw=true)
 
 Director
-
+Marcus Nishikawa
 Concept Artist
-
+Frankie Chia
+Isaac Cheung
 Enemy Design
-
+Frankie Chia
+Isaac Cheung
 Weapon Design
-
+Marcus Nishikawa
 Final Artist
-
+Tiger Yang
 Main Programmer
-
+?
 Move Programmer
-
+?
 Enemy Programmer
-
+?
 Engine  and GUI Programming
-
+?
 
 ------------------------------------------------------------------------------------
 .
