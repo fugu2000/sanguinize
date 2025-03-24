@@ -1,7 +1,7 @@
 public abstract class weapons
   {
-      static private String name;
-      static private int damage, cooldown, bloodCost;
-      static private boolean available, onCooldown;
+      private String name;
+      private int damage, cooldown, bloodCost;
+      private boolean available, onCooldown;
       
   }
