@@ -37,6 +37,7 @@ Fight growing waves of townsmen to feed their unending hunger
 ### Start screen pt.2 
 
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Start2.png?raw=true)
+<img width="464" alt="Screenshot 2025-03-26 at 11 56 52 AM" src="https://github.com/user-attachments/assets/2746b1e5-c302-4965-90e6-3fbdfd429329" />
 
 ### Diagram
 
