@@ -11,8 +11,11 @@ Fight growing waves of townsmen to feed their unending hunger
 # Phase Two March 26
 * Summery of all project changes
 * Documentation of indivigula/ team responcibilities
-* * Tiger: Worked on main chacter Sal and Monsters: theguy.gif
+ * Tiger: Worked on main chacter Sal and Monsters: theguy.gif
   * Margot: Worked on Game Over screen (gameOver.png) and the background to the start screen (startBack.png)
+  * Marcus: mainly helping us- and making the photos show up in the actual project
+  * made concept art, made the text for the start screen(startText.png) and sound desingn.
+  * concept ideas. 
 * Liat of newly added features and know issues
 
 ## Concept art
