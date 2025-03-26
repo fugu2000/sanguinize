@@ -1,13 +1,29 @@
-// frankie Chia
-public class sal
+public class Sal
 {
   private float x, y, xSpeed, ySpeed;
   private int sWidth, sHeight, blood, totalBlood;
   private String weaponSelected, currentAction;
   private boolean isDashing, inAir, isAttacking, isHit, iFrame, isDead;
-  void display(){
+  
+  // PImage sal;
+  Sal()
+  {
+    x = width / 2;
+    y = height / 2;
+    sWidth = 100;
+    sHeight = 100;
+    blood = 0;
+    totalBlood = 0;
   }
-  void move(){
+  
+  void display()
+  {
+    imageMode(CENTER);
+  }
+  void move(int tempX, int tempY)
+  {
+    x = tempX;
+    y = tempY;
   }
   void dash(){
   }
