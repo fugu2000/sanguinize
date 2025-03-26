@@ -57,7 +57,7 @@ Enemy Design: Frankie Chia, Isaac Cheung
 
 Weapon Design: Marcus Nishikawa
 
-Final Artist: Tiger Yang
+Final Artist: Tiger Yang, Frankie Chia
 
 Main Programmer
 ?
@@ -67,6 +67,7 @@ Enemy Programmer
 ?
 Engine  and GUI Programming
 ?
+Sound design and Music: Frankie Chia
 
 ------------------------------------------------------------------------------------
 .
