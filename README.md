@@ -44,18 +44,16 @@ Fight growing waves of townsmen to feed their unending hunger
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Diagram.png?raw=true)
 
 
-Director
-Marcus Nishikawa --> my hero
-Concept Artist
-Frankie Chia --> he fingers me every single class. i can't even work bc he is fingering me. 
-Isaac Cheung
-Enemy Design
-Frankie Chia
-Isaac Cheung
-Weapon Design
-Marcus Nishikawa
-Final Artist
-Tiger Yang
+Director:  Marcus Nishikawa
+
+Concept Artist: Frankie Chia, Isaac Cheung
+
+Enemy Design: Frankie Chia, Isaac Cheung
+
+Weapon Design: Marcus Nishikawa
+
+Final Artist: Tiger Yang
+
 Main Programmer
 ?
 Move Programmer
