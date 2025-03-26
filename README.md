@@ -15,8 +15,9 @@ Fight growing waves of townsmen to feed their unending hunger
   * Margot: Worked on Game Over screen (gameOver.png) and the background to the start screen (startBack.png)
   * Marcus: mainly helping us- and making the photos show up in the actual project
   * Frankie: made concept art, made the text for the start screen(startText.png) and sound desingn.
-  * Isacc: concept ideas. 
-* Liat of newly added features and know issues
+  * Isacc: concept ideas.
+  * Jerry: worked on ideas for enemeies. 
+* Liat of newly added features and know issues:
 
 ## Concept art
 ### Start screen
