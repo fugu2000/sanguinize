@@ -45,9 +45,9 @@ Fight growing waves of townsmen to feed their unending hunger
 
 
 Director
-Marcus Nishikawa
+Marcus Nishikawa --> my hero
 Concept Artist
-Frankie Chia
+Frankie Chia --> he fingers me every single class. i can't even work bc he is fingering me. 
 Isaac Cheung
 Enemy Design
 Frankie Chia
