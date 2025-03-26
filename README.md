@@ -65,9 +65,3 @@ Engine  and GUI Programming
 ###### The other Projects ripository just in case: https://github.com/Yang775923/Cereal-Killers.git
 
 
-
-### REsults ☠
-<img width="358" alt="Screenshot 2025-03-17 at 11 34 52 AM" src="https://github.com/user-attachments/assets/65fb242d-ed9a-4e89-8ce0-a5db44dea969" />
-
-## Class Diagram
-![image](https://github.com/user-attachments/assets/13a24042-9d2a-442f-944c-aac971bd86b5)
