@@ -7,10 +7,13 @@ The more blood you collect, the higher your final score!
 Play as Sal, a stranded vampire who needs to send some blood back to the family to redeem himself
 Fight growing waves of townsmen to feed their unending hunger
 
+
 # Phase Two March 26
 * Summery of all project changes
 * Documentation of indivigula/ team responcibilities
-* 
+* * Tiger: Worked on main chacter Sal and Monsters: theguy.gif
+  * Margot: Worked on Game Over screen (gameOver.png) and the background to the start screen (startBack.png)
+* Liat of newly added features and know issues
 
 ## Concept art
 ### Start screen
