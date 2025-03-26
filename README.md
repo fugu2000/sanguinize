@@ -13,11 +13,14 @@ Fight growing waves of townsmen to feed their unending hunger
 * Documentation of indivigula/ team responcibilities
  * Tiger: Worked on main chacter Sal and Monsters: theguy.gif
   * Margot: Worked on Game Over screen (gameOver.png) and the background to the start screen (startBack.png)
-  * Marcus: mainly helping us- and making the photos show up in the actual project
+  * Marcus: mainly helping us- and making the photos show up in the actual project, working on constructors
   * Frankie: made concept art, made the text for the start screen(startText.png) and sound desingn.
   * Isacc: concept ideas.
   * Jerry: worked on ideas for enemeies. 
-* Liat of newly added features and know issues:
+* List of newly added features and known issues:
+ * IMAGES LOAD OMG OMG OMG OMG
+ * Hidden variables being adjusted
+ * no known issues cuz there's not really a lot right now 😭
 
 ## Concept art
 ### Start screen
