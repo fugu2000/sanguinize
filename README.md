@@ -32,6 +32,10 @@ Fight growing waves of townsmen to feed their unending hunger
 
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Enemies.png?raw=true)
 
+### Start screen pt.2 
+
+![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/SIGMA.xcf?raw=true)
+
 ### Diagram
 
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Diagram.png?raw=true)
