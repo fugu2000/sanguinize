@@ -1,12 +1,16 @@
 
 static public int gravity, wave, waveDifficulty;
 static private boolean start, gameRun, upgrade, death;
-PImage startImage;
+PImage startText;
+PImage startBack;
+PImage mainBack;
 PFont dos;
 
 void setup()
 {
-  startImage = loadImage("Sang.jpg");
+  startText = loadImage("startText.png");
+  startBack = loadImage("startBack.png");
+  mainBack = loadImage("Map.png");
   size(1720, 900);
   start = true;
   wave = 1;
@@ -22,7 +26,7 @@ void draw()
   }
   else if (gameRun)
   {
-    
+    infoOverlay();
   }
 }
 void mousePressed()
@@ -36,12 +40,16 @@ void mousePressed()
 private static void startWave() {}
 private void startScreen()
 {
-  image(startImage, 0, 0);
+  imageMode(CORNER);
+  image(startBack, 0, 0);
+  imageMode(CENTER);
+  image(startText, width / 2, height / 2);
 }
 
 private void infoOverlay()
 {
-  //image(backGround, 0, 0);
+  imageMode(CORNER);
+  image(mainBack, 0, 0);
 }
 private static void upgradeScreen() {}
 private static void deathScreen() {}
