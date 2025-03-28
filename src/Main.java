@@ -1,56 +1,67 @@
-
-static public int gravity, wave, waveDifficulty;
-static private boolean start, gameRun, upgrade, death;
-PImage startText;
-PImage startBack;
-PImage mainBack;
-PFont dos;
-
-void setup()
+public class Sal
 {
-  startText = loadImage("startText.png");
-  startBack = loadImage("startBack.png");
-  mainBack = loadImage("Map.png");
-  size(1720, 900);
-  start = true;
-  wave = 1;
-  gravity = 2;
-  waveDifficulty = 10;
-  dos = createFont("PerfectDOSVGA437.ttf", 35);
-}
-void draw() 
-{
-  if (start)
+  Gif s1;
+  private float x, y, xSpeed, ySpeed;
+  private int sWidth, sHeight, blood, totalBlood, jumpHeight;
+  private String weaponSelected, currentAction;
+  private boolean isDashing, inAir, isAttacking, isHit, iFrame, isDead;
+  
+  // PImage sal;
+  Sal()
   {
-    startScreen();
+    x = width / 2;
+    y = height / 2;
+    jumpHeight = 20;
+    sWidth = 100;
+    sHeight = 100;
+    blood = 0;
+    totalBlood = 0;
+    
   }
-  else if (gameRun)
+  
+  void display()
   {
-    infoOverlay();
+    imageMode(CENTER);
+    sIdle.play();
+    image(sIdle, x, y);
+    if (y >= ground)
+    {
+      inAir = false;
+      y = ground;
+      if(ySpeed > 0)
+      {
+        ySpeed = 0;
+      }
+    }
+    else
+    {
+      inAir = true;
+    }
   }
-}
-void mousePressed()
-{
-  if (start)
+  void move()
   {
-    gameRun = true;
-    start = false;
+    x += xSpeed;
+    y += ySpeed;
+    if(inAir)
+    {
+      ySpeed += gravity;
+    }
+    xSpeed *= friction;
+    ySpeed *= friction;
+  }
+  void walk(int tempX)
+  {
+    xSpeed += tempX;
+  }
+  void dash(){
+  }
+  void jump()
+  {
+    if(!inAir)
+    {
+      ySpeed -= jumpHeight;
+    }
+  }
+  void bloodWield(){
   }
 }
-private static void startWave() {}
-private void startScreen()
-{
-  imageMode(CORNER);
-  image(startBack, 0, 0);
-  imageMode(CENTER);
-  image(startText, width / 2, height / 2);
-}
-
-private void infoOverlay()
-{
-  imageMode(CORNER);
-  image(mainBack, 0, 0);
-}
-private static void upgradeScreen() {}
-private static void deathScreen() {}
-private static void runMusic() {}
