@@ -1,4 +1,4 @@
-public abstract class weapons
+public abstract class Weapons
   {
       private String name;
       private int damage, cooldown, bloodCost;
