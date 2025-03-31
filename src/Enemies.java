@@ -1,4 +1,4 @@
-public abstract class enemies
+public abstract class Enemies
 {
   private float x, y,xSpeed, ySpeed;
   private int difficulty, hp, speed;
