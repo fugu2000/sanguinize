@@ -1,25 +1,31 @@
 import gifAnimation.*;
 
 Sal s1;
-static public Gif sIdle;
+static public Gif sIdleLeft, sIdleRight;
 static public int gravity, wave, waveDifficulty, ground;
 static public float friction;
-static public char jumpKey, leftKey, rightKey;
+static public char jumpKey, leftKey, rightKey, dashKey;
 static private boolean start, gameRun, upgrade, death, jumpKeyHeld, leftKeyHeld, rightKeyHeld;
+
 PImage startText;
 PImage startBack;
 PImage mainBack;
 PFont dos;
+public static Timer dashTime;
 
 void setup()
 {
+  dashTime = new Timer(500);
+  dashTime.start();
   friction = .8;
   jumpKey = 'w';
   leftKey = 'a';
   rightKey = 'd';
+  dashKey = 'q';
   ground = height - 300;
   s1 = new Sal();
-  sIdle = new Gif(this, "theguy3.gif");
+  sIdleLeft = new Gif(this, "guyLeft.gif");
+  sIdleRight = new Gif(this, "guyRight.gif");
   startText = loadImage("startText.png");
   startBack = loadImage("startBack.png");
   mainBack = loadImage("Map.png");
@@ -42,7 +48,8 @@ void draw()
     infoOverlay();
     s1.display();
     s1.move();
-  }
+    
+    }
 }
 void mousePressed()
 {
@@ -65,6 +72,10 @@ void keyPressed()
   if (key == rightKey)
   {
     rightKeyHeld = true;
+  }
+  if (key == dashKey)
+  {
+    s1.dash();
   }
 }
 void keyReleased()
@@ -90,11 +101,11 @@ void controlScheme()
   }
   if(leftKeyHeld)
   {
-    s1.walk(-5);
+    s1.walk(-3);
   }
   if(rightKeyHeld)
   {
-    s1.walk(5);
+    s1.walk(3);
   }
 }
 private static void startWave() {}
