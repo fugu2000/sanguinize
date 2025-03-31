@@ -63,7 +63,7 @@ Director:  Marcus Nishikawa
 
 Concept Artist: Frankie Chia, Isaac Cheung
 
-Enemy Design: Frankie Chia, Isaac Cheung
+Enemy Design: Frankie Chia, Isaac Cheung，Jerry Yang
 
 Weapon Design: Marcus Nishikawa
 
