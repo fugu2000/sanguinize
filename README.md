@@ -81,7 +81,7 @@ Enemy Programmer
 ?
 Engine  and GUI Programming
 ?
-Sound design and Music: Frankie Chia
+Sound design and Music: Frankie Chia，Jerry Yang
 
 ------------------------------------------------------------------------------------
 .
