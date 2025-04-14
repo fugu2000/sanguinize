@@ -54,6 +54,10 @@ Fight growing waves of townsmen to feed their unending hunger
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Start2.png?raw=true)
 <img width="464" alt="Screenshot 2025-03-26 at 11 56 52 AM" src="https://github.com/user-attachments/assets/2746b1e5-c302-4965-90e6-3fbdfd429329" />
 
+### Blood Bar
+
+![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Screenshot%202025-04-14%20at%2011.23.12%20AM.png?raw=true)
+
 ### Diagram
 
 ![Art](https://github.com/fugu2000/sanguinize/blob/main/assets/Diagram.png?raw=true)
