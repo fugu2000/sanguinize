@@ -45,6 +45,11 @@ void draw() {
     s1.display();
     s1.move();
   }
+  if (s1.getCurrentWeapon() instanceof Scythe) {
+  Scythe scythe = (Scythe)s1.getCurrentWeapon();
+  scythe.update();
+  scythe.display(width / 2, ground); 
+}
 }
 
 void mousePressed() {
@@ -65,7 +70,7 @@ void keyPressed() {
     s1.switchWeapon(2);
   }
   if (key == '4') {
-    s1.switchWeapon(3);
+    s1.switchWeapon(4);
   }
 
   if (key == jumpKey) {
@@ -135,6 +140,7 @@ class Sal {
     weaponSlots[1] = new Spear();
     weaponSlots[2] = new Gauntlets();
     weaponSlots[3] = new Spikes();
+    weaponSlots[4] = new Scythe();
     currentWeapon = weaponSlots[0];
   }
 
