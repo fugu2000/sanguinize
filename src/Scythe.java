@@ -8,7 +8,7 @@ public class Scythe extends Weapons
     damage = 25;
     cooldown = 2;
     bloodCost = 50;
-    Scythe = loadImage("SYTHE.PNG");
+    Scythe = loadImage("SCYTHE.PNG");
   }
   public void attack()
   {
