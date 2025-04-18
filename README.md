@@ -16,7 +16,7 @@ Fight growing waves of townsmen to feed their unending hunger
   * Marcus: mainly helping us- and making the photos show up in the actual project, working on constructors
   * Frankie: made concept art, made the text for the start screen(startText.png) and sound desingn.
   * Isaac: concept ideas.
-  * Jerry: worked on ideas for enemeies. 
+  * Jerry: worked on ideas for enemeies, and assist in supplementing the code
 * List of newly added features and known issues:
  * IMAGES LOAD OMG OMG OMG OMG
  * Hidden variables being adjusted
