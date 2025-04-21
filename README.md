@@ -9,14 +9,14 @@ Fight growing waves of townsmen to feed their unending hunger
 
 
 # Phase Two March 26
-* Summery of all project changes
-* Documentation of indivigula/ team responcibilities
+* Summary of all project changes
+* Documentation of individual/ team responsibilties
  * Tiger: Worked on main chacter Sal and Monsters: theguy.gif
   * Margot: Worked on Game Over screen (gameOver.png) and the background to the start screen (startBack.png)
   * Marcus: mainly helping us- and making the photos show up in the actual project, working on constructors
   * Frankie: made concept art, made the text for the start screen(startText.png) and sound desingn.
   * Isaac: concept ideas.
-  * Jerry: worked on ideas for enemeies, and assist in supplementing the code
+  * Jerry: worked on ideas for enemies, and assist in supplementing the code
 * List of newly added features and known issues:
  * IMAGES LOAD OMG OMG OMG OMG
  * Hidden variables being adjusted
