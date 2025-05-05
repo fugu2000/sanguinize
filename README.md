@@ -12,7 +12,8 @@ Fight growing waves of townsmen to feed their unending hunger
 * Summary of all project changes
 * Documentation of individual/ team responsibilties
  * Tiger: Worked on main chacter Sal and Monsters: theguy.gif
-  * Margot: Worked on Game Over screen (gameOver.png) and the background to the start screen (startBack.png)
+  * Margot: Worked on Game Over screen (gameOver.png) and the background to the start screen (startBack.png) the stickman 
+   DaggerBlood.png, Mace .png,mosquito gif.gif, stickman orange.gif, FarmerFalling.gif, Farmer Running.gif
   * Marcus: mainly helping us- and making the photos show up in the actual project, working on constructors
   * Frankie: made concept art, made the text for the start screen(startText.png) and sound desingn.
   * Isaac: concept ideas.
