@@ -11,9 +11,9 @@ Fight growing waves of townsmen to feed their unending hunger
 # Phase Two March 26
 * Summary of all project changes
 * Documentation of individual/ team responsibilties
- * Tiger: Worked on main chacter Sal and Monsters: theguy.gif
+ * Tiger: Worked on main chacter Sal and Monsters: theguy.gif, SCYTHE.png,Mace.png,theguy.png running. The main character!
   * Margot: Worked on Game Over screen (gameOver.png) and the background to the start screen (startBack.png) the stickman 
-   DaggerBlood.png, Mace .png,mosquito gif.gif, stickman orange.gif, FarmerFalling.gif, Farmer Running.gif
+   DaggerBlood.png, Mace .png,mosquito gif.gif, stickman orange.gif, FarmerFalling.gif, Farmer Running.gif,SCYTHE.png
   * Marcus: mainly helping us- and making the photos show up in the actual project, working on constructors
   * Frankie: made concept art, made the text for the start screen(startText.png) and sound desingn.
   * Isaac: concept ideas.
