@@ -15,7 +15,7 @@ Fight growing waves of townsmen to feed their unending hunger
   * Margot: Worked on Game Over screen (gameOver.png) and the background to the start screen (startBack.png) the stickman 
    DaggerBlood.png, Mace .png,mosquito gif.gif, stickman orange.gif, FarmerFalling.gif, Farmer Running.gif,SCYTHE.png
   * Marcus: mainly helping us- and making the photos show up in the actual project, working on constructors
-  * Frankie: made concept art, made the text for the start screen(startText.png) and sound desingn.
+  * Frankie: made concept art, made the text for the start screen(startText.png), some of the mace code, background art, UI, game over screen, and sound desingn.
   * Isaac: concept ideas.
   * Jerry: worked on ideas for enemies, and assist in supplementing the code
 * List of newly added features and known issues:
