@@ -1,5 +1,4 @@
-// Example 10-5: Object-oriented timer
-// By Daniel Shiffman
+// Timer || Daniel Shiffman
 
 class Timer {
 
@@ -15,12 +14,16 @@ class Timer {
     // When the timer starts it stores the current time in milliseconds.
     savedTime = millis();
   }
+  void decrease(int tempTime)
+  {
+    savedTime -= tempTime;
+  }
 
   // The function isFinished() returns true if 5,000 ms have passed. 
   // The work of the timer is farmed out to this method.
   boolean isFinished() { 
     // Check how much time has passed
-    int passedTime = millis()- savedTime;
+    float passedTime = (millis()- savedTime) * timeScale;
     if (passedTime > totalTime) {
       return true;
     } else {
