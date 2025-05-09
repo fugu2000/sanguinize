@@ -73,7 +73,7 @@ Enemy Design: Frankie Chia, Isaac Cheung，Jerry Yang
 
 Weapon Design: Marcus Nishikawa
 
-Final Artist: Tiger Yang, Frankie Chia
+Final Artist: Tiger Yang, Margot Zollinger
 
 Main Programmer
 ?
