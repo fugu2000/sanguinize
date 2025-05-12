@@ -5,8 +5,13 @@ OOP Arcade arena hack and slash
 You rely on blood to live!! Use it for moves and feeding your weapon!
 The more blood you collect, the higher your final score!
 Play as Sal, a stranded vampire who needs to send some blood back to the family to redeem himself
-Fight growing waves of townsmen to feed their unending hunger
-
+Fight growing waves of enemies to feed their unending hunger
+Enemies: After killing enemies, your blood bar increaes. If they attack you, your blood bar decreases
+ Mosquitoes: They fly around and deal damage until you kill them
+ Farmer: They are on ground enemies that chase you around and deal damage 
+Special Attacks:
+ Slow Motion Attack that allows you to jump really high after you hit an enemy and slows down the surroundings 
+ 
 
 # Phase Two March 26
 * Summary of all project changes
@@ -69,21 +74,21 @@ Director:  Marcus Nishikawa
 
 Concept Artist: Frankie Chia, Isaac Cheung
 
-Enemy Design: Frankie Chia, Isaac Cheung，Jerry Yang
+Enemy Design: Frankie Chia, Isaac Cheung，Jerry Yang, Tiger Yang, Margot Zollinger
 
-Weapon Design: Marcus Nishikawa
+Weapon Design: Marcus Nishikawa, Tiger Yang, Margot Zollinger
 
 Final Artist: Tiger Yang, Margot Zollinger
 
-Main Programmer
-?
-Move Programmer
-?
-Enemy Programmer
-?
-Engine  and GUI Programming
-?
+Main Programmer(s): Marcus Nishikawa, Frankie Chia 
+
+Concept Developer: Jerry Yang, Frankie Chia 
+
+Engine  and GUI Programming: Isaac Cheung 
+
 Sound design and Music: Frankie Chia，Jerry Yang
+
+Testers and README: Isaac Cheung, Tiger Yang, Margot Zollinger 
 
 ------------------------------------------------------------------------------------
 .
