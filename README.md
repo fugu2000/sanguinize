@@ -13,7 +13,7 @@ Special Attacks:
  Slow Motion Attack that allows you to jump really high after you hit an enemy and slows down the surroundings 
  
 
-# Phase Two March 26
+# Phase Three Changes
 * Summary of all project changes
 * Documentation of individual/ team responsibilties
  * Tiger: Worked on main chacter Sal and Monsters: theguy.gif, SCYTHE.png,Mace.png,theguy.png running. The main character!
@@ -23,10 +23,7 @@ Special Attacks:
   * Frankie: made concept art, made the text for the start screen(startText.png), some of the mace code, background art, UI, game over screen, and sound desingn.
   * Isaac: concept ideas.
   * Jerry: worked on ideas for enemies, and assist in supplementing the code
-* List of newly added features and known issues:
- * IMAGES LOAD OMG OMG OMG OMG
- * Hidden variables being adjusted
- * no known issues cuz there's not really a lot right now 😭
+
 
 ## Concept art
 ### Start screen
