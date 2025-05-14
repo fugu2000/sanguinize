@@ -2,22 +2,25 @@
 
 OOP Arcade arena hack and slash
 
-Uses Processing, requires GIFAnimation libraries 
+Uses Processing and the library "GifAnimation"
 
 You rely on blood to live!! Use it for moves and feeding your weapon!
 The more blood you collect, the higher your final score!
-
 Play as Sal, a stranded vampire who needs to send some blood back to the family to redeem himself
 Fight growing waves of enemies to feed their unending hunger
 
-Enemies: After killing enemies, your blood bar increaes. If they attack you, your blood bar decreases
- Mosquitoes: They fly around and deal damage until you kill them
- Farmer: They are on ground enemies that chase you around and deal damage 
 
-Special Attacks:
- Slow Motion Attack that allows you to jump really high after you hit an enemy and slows down the surroundings 
- 
-
+# CONTROLS
+* WASD for movement
+* Space or W to jump
+* Q to dash
+* M1 to attack
+# MECHANICS
+* Blood: Dealing damage recharges the constantly draining meter, keep it up to avoid death
+* Mosquitoes: Basic flying enemies, deal less damage than the farmer but attack much faster
+* Farmer: Basic ground enemies that chase you and trip over themeselves
+* Leveling: When your blood bar fills, your max blood doubles, starting a slow motion sequence and also increasing your blood drain
+* Waves: Killing all enemies onscreen exponentially spawns more
 # Phase Three Changes
 * Summary of all project changes
 * Documentation of individual/ team responsibilties
