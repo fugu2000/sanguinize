@@ -1,6 +1,7 @@
 # Sanguinize
 
 OOP Arcade arena hack and slash
+
 Uses Processing, requires GIFAnimation libraries 
 
 You rely on blood to live!! Use it for moves and feeding your weapon!
