@@ -10,7 +10,7 @@ public float timeScale = 1.0;
 static public final int chudDifficulty = 1;
 static public final int flyDifficulty = 1;
 static public int enemyTypes;
-static public Gif sIdleLeft, sIdleRight, cRun, fRun;
+static public Gif sIdleLeft, sIdleRight, cRun, fRun, cFall;
 static public int gravity, wave, waveDifficulty, ground, enemyCount;
 static public float friction;
 static public char jumpKey, leftKey, rightKey, dashKey;
@@ -43,7 +43,8 @@ void setup()
   s1 = new Sal();
   s = new Mace();
   maceSwing = loadImage("Mace .png");
-  cRun = new Gif(this, "Chud.gif");
+  cRun = new Gif(this, "FarmerRunning.gif");
+  cFall = new Gif(this, "FarmerFALLing.gif");
   fRun = new Gif(this, "mosquito gif.gif");
   sIdleLeft = new Gif(this, "guyLeft.gif");
   sIdleRight = new Gif(this, "guyRight.gif");
@@ -89,33 +90,34 @@ void draw()
     {
       debug();
     }
-  }
-  else
+  } else
   {
     deathScreen();
   }
 }
 void mousePressed()
 {
-  println("MousePress");
-  if (start)
+  if (mouseButton == LEFT)
   {
-    gameRun = true;
-    start = false;
-    startWave();
-    s1.blood = 190;
-    
-  } else if (gameRun)
-  {
-    s.mainAttack(s1);
-    projectiles.add(new Projectile("spear", mouseX, mouseY, 10, 10, degrees(180), 40));
-  } else if (death)
-  {
-    start = true;
-    death = false;
-    startWave();
-    s1.blood = 190;
-    wave = 1;
+    println("MousePress");
+    if (start)
+    {
+      gameRun = true;
+      start = false;
+      startWave();
+      s1.blood = 190;
+    } else if (gameRun)
+    {
+      s.mainAttack(s1);
+      projectiles.add(new Projectile("spear", mouseX, mouseY, 10, 10, degrees(180), 40));
+    } else if (death)
+    {
+      start = true;
+      death = false;
+      startWave();
+      s1.blood = 190;
+      wave = 1;
+    }
   }
 }
 void keyPressed()
@@ -175,7 +177,7 @@ private void chudDisplay()
   {
     Chud c = chuds.get(i);
     c.display();
-    c.move();
+    c.move(chuds);
     c.cooldown();
     c.playerCheck();
     if (c.hp < 1)
@@ -219,7 +221,7 @@ void controlScheme()
 private void startWave()
 {
   wave ++;
-  waveDifficulty = (int)Math.pow(2, wave);
+  waveDifficulty = (int)Math.pow(1.66, wave);
   for (int i = 0; i < waveDifficulty; )
   {
     int enemySelect = (int)(Math.random() * enemyTypes);
@@ -265,9 +267,9 @@ private void infoOverlay()
 private void upgradeScreen()
 {
   timeScale = 0.05;
-  if(slowMo.isFinished()) slowMo.start();
+  if (slowMo.isFinished()) slowMo.start();
   timeScale = lerp(timeScale, 1.0, 0.05);
-  if(slowMo.isFinished()) upgrade = false;
+  if (slowMo.isFinished()) upgrade = false;
   //rectMode(CORNER);
   //fill(100, 50);
   //rect(0, 0, width, height);
@@ -276,15 +278,13 @@ private void upgradeScreen()
   //rect(width / 2, height / 2, 500, height / 1.25);
   //rect(width * (5.0/6.0), height / 2, 500, height / 1.25);
 }
-private void deathScreen() 
+private void deathScreen()
 {
   imageMode(CORNER);
   image(dead, 0, 0);
-  
 }
-private static void runMusic() 
+private static void runMusic()
 {
-  
 }
 private void debug()
 {
