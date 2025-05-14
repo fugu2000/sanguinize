@@ -65,7 +65,7 @@ public class Sal
     {
       upgrade = true;
       level ++;
-      bloodDrain = level / 10;
+      bloodDrain = level / 10.0;
       maxBlood = 200 * level;
       blood = maxBlood / 2;
     }
